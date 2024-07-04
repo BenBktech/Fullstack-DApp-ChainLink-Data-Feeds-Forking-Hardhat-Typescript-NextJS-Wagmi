@@ -6,7 +6,7 @@ const config: HardhatUserConfig = {
   networks: {
     hardhat: {
       forking: {
-        url: "https://mainnet.infura.io/v3/INFURAAPIKEY",
+        url: "https://mainnet.infura.io/v3/6e4dcb86b707401a84e505b5ae7c8964",
         blockNumber: 20228494
       }
     }
