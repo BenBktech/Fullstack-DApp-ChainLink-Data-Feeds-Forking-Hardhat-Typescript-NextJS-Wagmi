@@ -23,31 +23,13 @@ This project is a decentralized application (DApp) that allows users to mint the
 
 ### Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (LTS or later)
 - npm or yarn
 
-### Installation
+### Contributing
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/bbk-token-minting-dapp.git
-    cd bbk-token-minting-dapp
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-    or
-
-    ```bash
-    yarn install
-    ```
-
-### Environment Variables
-
-Create a `.env` file in the root of the project and add the following environment variables:
-
+Fork the repository
+Create your feature branch (git checkout -b feature/fooBar)
+Commit your changes (git commit -m 'Add some fooBar')
+Push to the branch (git push origin feature/fooBar)
+Create a new Pull Request
