@@ -28,8 +28,8 @@ This project is a decentralized application (DApp) that allows users to mint the
 
 ### Contributing
 
-Fork the repository
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -m 'Add some fooBar')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
+- Fork the repository
+- Create your feature branch (git checkout -b feature/fooBar)
+- Commit your changes (git commit -m 'Add some fooBar')
+- Push to the branch (git push origin feature/fooBar)
+- Create a new Pull Request
